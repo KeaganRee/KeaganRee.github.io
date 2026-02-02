@@ -1,0 +1,51 @@
+h1{
+        text-align: center;
+        font-family: "Pacifico",cursive;
+    }
+h6{
+    text-align: center;
+    font-family: "Pacifico",cursive;
+    font-size: medium;
+}
+
+.button{
+    border-style: dashed;
+    border-width: 3px;
+    border-color: purple;
+    padding: .25vw;
+    margin: .5vw;
+    font-family: "Pacifico", cursive;
+
+}
+
+.imgDisp{
+    display: flex;
+    justify-content: center;
+}
+.figCap {
+    color: black;
+    font-size: max(2vw, 2vw)
+}
+
+.figStyle {
+    text-align: center;
+    width: 20%;
+}
+.images {
+    width: 100%;
+    height: auto;
+}
+.centerText{
+    text-align: center;
+    font-family: "Pacifico", cursive;
+}
+
+body{
+    background-color: lavender;
+    font-family: "Roboto", sans-serif;
+}
+
+table{
+    display: flex;
+    justify-content: center;
+}
