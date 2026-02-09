@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(192, 192, 192);
+    margin: 3%;
+}
+
+h1{
+    text-align: center;
+}
+
+hr{
+    color: black;
+    height: 3px;
+}
+
+.figStyle{
+    display:flex;
+    justify-content: center;
+}
+
+.footer{
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+.center{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.button{
+    border-style: ridge;
+    border-width: 3px;
+    border-color: rgb(104, 104, 104);
+    padding: .25vw;
+    margin: .5vw;
+    background-color: rgb(154, 154, 154);
+}
+
+.buttonSel{
+    border-style: dashed;
+    border-width: 3px;
+    border-color: rgb(21, 0, 255);
+    padding: .25vw;
+    margin: .5vw;
+    background-color: rgb(154, 154, 154);
+}
