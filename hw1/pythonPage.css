@@ -2,7 +2,9 @@ body{
     background-color: rgb(192, 192, 192);
     margin: 3%;
 }
-
+#cursor{
+    cursor:wait;
+}
 h1{
     text-align: center;
 }
@@ -11,7 +13,20 @@ hr{
     color: black;
     height: 3px;
 }
+a:link{
+    color: black;
+}
+a:visited{
+    color:black;
+}
+a:hover{
+    color:yellow
+}
 
+.meter{
+    display:flex;
+    justify-content: center;
+}
 .figStyle{
     display:flex;
     justify-content: center;
